@@ -1,0 +1,70 @@
+@media screen and (max-width: 500px){
+    body {
+        background: red;
+    }
+    .logo {
+        margin-top: -39px;
+    }
+
+    .btn {
+        width: 120px;
+        height: 40px;
+        margin-top: 330px;
+        margin-right: 146px;
+    }
+    nav {
+        -bottom: 182px;
+    }
+    h1 {
+        font-size: 47px;
+    }
+
+    .contant {
+        margin-top: 200px;
+    }
+
+    .about {
+        height: auto;
+    }
+
+    .about img {
+        width: 252px;
+        margin-top: -1157px;
+        position: relative;
+        left: 50%;
+        -webkit-transform: translate(-50%, 0);
+    }
+
+    .about_text {
+        width: 362px;
+        margin-top: 456px;
+        height: 852px;
+        margin-left: -157px;
+        padding: 0px;
+    }
+    .title h2 {
+        font-size: 42px;
+        width: 510px;
+        text-align: center;
+    }
+    .box {
+        display: inherit;
+    }
+    .card {
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .contact-me p {
+        font-size: 23px;
+    }
+
+
+
+
+
+
+
+
+
+}
